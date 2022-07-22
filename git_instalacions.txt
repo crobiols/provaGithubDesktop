@@ -1,12 +1,19 @@
 INSTAL·LAR GIT:
 0) sudo apt-get install git
+
 INSTAL·LAR GITHUB DESKTOP:
 1) sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.9.3-linux3/GitHubDesktop-linux-2.9.3-linux3.deb
 2) sudo apt-get install gdebi-core
 3) sudo gdebi GitHubDesktop-linux-2.9.3-linux3.deb
 
+Instal·lar Netbeans, Eclipse i Visual Studio Code
+
+INSTAL·LAR Java-jdk
+sudo apt install default-jdk
+
+ALTRES:
 sudo apt-get remove
 sudo dpkg -i 
 
-sudo apt install default-jdk
+
 
