@@ -6,4 +6,7 @@ INSTAL·LAR GITHUB DESKTOP:
 3) sudo gdebi GitHubDesktop-linux-2.9.3-linux3.deb
 
 sudo apt-get remove
+sudo dpkg -i 
+
+sudo apt install default-jdk
 
